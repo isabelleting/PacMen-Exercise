@@ -8,7 +8,7 @@ A fun game with MIT xPro where you can add many PacMan and have them bounce arou
 
 After loading in a browser window, click Add PacMan to add as many as you like. Click Start Game to get them going and click again if you want them to speed up.
 
-## Future Roadmap
+## Roadmap of Future Improvements
 
 I would like to have each Add PacMan click generate a random color PacMan and add fruits to the game as well.
 
