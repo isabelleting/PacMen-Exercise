@@ -10,7 +10,7 @@ After loading in a browser window, click Add PacMan to add as many as you like. 
 
 ## Roadmap of Future Improvements
 
-I would like to have each Add PacMan click generate a random color PacMan and add fruits to the game as well.
+I would like to have each Add PacMan click generate a random color PacMan. And add fruits or ghosts to the game as well.
 
 ## License
 
